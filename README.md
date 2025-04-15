@@ -1,4 +1,12 @@
 # Java Threads Demonstration
+##  Author Info
+
+- **Name:** Mahi Jadeja  
+- **PRN:** 23070126068
+- **Branch:** AIML A-3  
+- **Batch:** 23-27  
+
+---
 
 ## Overview
 
@@ -20,8 +28,5 @@ This project demonstrates the basic working of **threads** in Java using the `Th
 1. Compile: `javac threadexample/*.java`
 2. Run: `java threadexample.Main`
 
-## GitHub Repository
 
-[GitHub Repository Link](https://github.com/your-username/JavaThreadsDemo)
 
-_(Replace the link with your actual GitHub repo)_
